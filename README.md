@@ -1,2 +1,2 @@
-# Lab2
-Method and tools Lab 2 
+Steven Kim
+Lab 3 Git
